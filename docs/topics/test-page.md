@@ -338,7 +338,9 @@ jvmTest<Scope>
 * [internal link](roadmap.md)
 * [external link](https://jetbrains.com)
 * emojis ❌✅🆕
-* variable using: lastest Kotlin version is %kotlinVersion%
+
+## Variables
+* variable using: latest Kotlin version is %kotlinVersion%
 
 ## Embedded elements
 
