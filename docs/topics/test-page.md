@@ -17,7 +17,7 @@
 
 ```kotlin
 plugins {
-    kotlin("kapt") version "%kotlinVersion%"
+    kotlin("kapt") version "1.9.22"
 }
 ```
 
@@ -26,7 +26,7 @@ plugins {
 
 ```groovy
 plugins {
-    id "org.jetbrains.kotlin.kapt" version "%kotlinVersion%"
+    id "org.jetbrains.kotlin.kapt" version "1.9.22"
 }
 ```
 
@@ -38,7 +38,7 @@ plugins {
 
 ```kotlin
 plugins {
-    kotlin("plugin.noarg") version "%kotlinVersion%"
+    kotlin("plugin.noarg") version "1.9.22"
 }
 ```
 
@@ -47,7 +47,7 @@ plugins {
 
 ```groovy
 plugins {
-    id "org.jetbrains.kotlin.plugin.noarg" version "%kotlinVersion%"
+    id "org.jetbrains.kotlin.plugin.noarg" version "1.9.22"
 }
 ```
 
@@ -62,7 +62,7 @@ Some text here and a codeblock:
 
 ```kotlin
 plugins {
-    kotlin("plugin.noarg") version "%kotlinVersion%"
+    kotlin("plugin.noarg") version "1.9.22"
 }
 ```
 
